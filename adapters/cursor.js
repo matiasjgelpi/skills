@@ -9,7 +9,7 @@ export default {
 
   async install(skillPath, skillName) {
     const targetDir = join(this.targetDir, skillName);
-    const sourcePath = join(skillPath, 'skill.md');
+    const sourcePath = join(skillPath, 'SKILL.md');
     const targetPath = join(targetDir, this.filename);
 
     await mkdir(targetDir, { recursive: true });

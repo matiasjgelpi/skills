@@ -1,0 +1,28 @@
+{
+  "name": "@matiasjgelpi/skills",
+  "version": "1.0.1",
+  "description": "Skills multiplataforma para Claude Code, Cursor y Antigravity",
+  "type": "module",
+  "bin": {
+    "laburen-skills": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "adapters"
+  ],
+  "keywords": [
+    "claude",
+    "cursor",
+    "antigravity",
+    "skills",
+    "ai",
+    "laburen"
+  ],
+  "author": "Laburen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laburen/skills.git"
+  }
+}

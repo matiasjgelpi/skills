@@ -1,6 +1,6 @@
 {
   "name": "@matiasjgelpi/skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skills multiplataforma para Claude Code, Cursor y Antigravity",
   "type": "module",
   "bin": {

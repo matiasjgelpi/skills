@@ -71,3 +71,4 @@ git push
 ## Skills incluidos
 
 - **laburen-prompt-guide**: Guía para crear prompts de agentes conversacionales siguiendo la estructura estándar de Laburen
+- **prompt-refiner**: Middleware que revisa, estructura y corrige prompts del usuario antes de que el agente los ejecute
